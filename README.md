@@ -122,12 +122,14 @@ SigNoz is a single tool for all your monitoring and observability needs. Here ar
 
 ### Quick Start (Docker)
 
-If you want to quickly try SigNoz locally, the fastest way is using Docker.
+If you want to quickly try SigNoz locally, the fastest way is using Docker.  
+Once the containers are up, you can access the SigNoz UI in your browser.
 
 ```bash
 git clone https://github.com/SigNoz/signoz.git
 cd signoz
 docker compose up -d
+
 ```
 
 ### Create a SigNoz Cloud Account
